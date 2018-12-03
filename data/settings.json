@@ -1,0 +1,9 @@
+{
+    "date_filter": false,
+    "date_from": null,
+    "date_to": null,
+    "limit": 10,
+    "messages_per_account": 25,
+    "pause_account_switch_secs": 10,
+    "pause_secs": 5
+}
